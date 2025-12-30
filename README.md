@@ -63,7 +63,7 @@ The project follows a layered architecture:
 - POST /budgets
 - GET /budgets
 
-**Future Enhancements**
+## Future Enhancements
 - Authentication and authorization
 - User-specific expense tracking
 - Reporting and analytics
